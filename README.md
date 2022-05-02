@@ -27,6 +27,7 @@ Development tools include: nodemon npm
 
 ## Site
 
+<img width="880" alt="Screen Shot 2022-05-01 at 10 01 09 PM" src="https://user-images.githubusercontent.com/95631495/166176967-b41e3c4a-3104-4cb7-8ad6-2dcd63347438.png">
 
 
 ## Deployed Application
